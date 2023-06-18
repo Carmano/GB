@@ -11,7 +11,7 @@ def composite_number():
         else:
             result = 'Число простое'
     return result
-
+# 4, 6, 8, 9, 10, 12, 14, 15, 16
 
 if __name__ == '__main__':
     print(composite_number())

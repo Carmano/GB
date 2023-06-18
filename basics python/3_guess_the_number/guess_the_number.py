@@ -10,7 +10,7 @@ def guess_the_number():
     while num != our_number:
         if num > our_number:
             print('Ваше число меньше')
-        if num < our_number:
+        elif num < our_number:
             print('Ваше число больше')
         our_number = int(input('Введите число: '))
     print('Ураа!!! Вы угадали')
