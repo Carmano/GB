@@ -7,7 +7,7 @@ def transport(matrix):
     for i in range(m):
         for j in range(n):
             trans_matrix[j][i] = matrix[i][j]
-    show(trans_matrix)
+    return trans_matrix
 
 
 def show(matrix):
@@ -25,9 +25,9 @@ def main():
         [7, 8, 9],
     ]
     show(matrix)
-    transport(matrix)
+    matrix = transport(matrix)
     print()
-    # show(matrix)
+    show(matrix)
 
 
 # Press the green button in the gutter to run the script.
