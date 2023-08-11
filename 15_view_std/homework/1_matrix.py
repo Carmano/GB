@@ -1,3 +1,9 @@
+import logging
+
+logging.basicConfig(filename='1_matrix.log', filemode='w', encoding='utf-8', level=logging.NOTSET)
+logger = logging.getLogger(__name__)
+
+
 class Matrix:
     def __init__(self, matrix):
         self.matrix = matrix
@@ -27,7 +33,8 @@ class Matrix:
                 new_matrix.append(row)
             return Matrix(new_matrix)
         else:
-            raise ValueError('Длинны не соответсвуют')
+            logger.error('Длинны не соответсвуют')
+            # raise ValueError('Длинны не соответсвуют')
 
     def show_matrix(self):
         for i in range(self.height):
@@ -35,9 +42,11 @@ class Matrix:
                 print(self.matrix[i][j], end=' ')
             print()
         print()
+        logger.info(self.matrix)
 
     def __mul__(self, other):
         if self.width != other.height:
+            logger.error('Матрицы имеют некорректные размеры для умножения')
             raise ValueError("Матрицы имеют некорректные размеры для умножения")
 
         matrix = []
@@ -61,16 +70,16 @@ data4 = [[1, 2], [3, 4]]
 matrix1 = Matrix(data1)
 matrix1.show_matrix()
 
-matrix2 = Matrix(data4)
+matrix2 = Matrix(data2)
 matrix2.show_matrix()
 
-# matrix3 = matrix1 + matrix2
+matrix3 = matrix1 + matrix2
 # matrix3.show_matrix()
-#
-# if matrix1 == matrix2:
-#     print('equal')
-# else:
-#     print('not equal')
+
+if matrix1 == matrix2:
+    print('equal')
+else:
+    print('not equal')
 
 matrix4 = matrix1 * matrix2
 matrix4.show_matrix()

@@ -1,3 +1,7 @@
+# Возьмите 1-3 задачи из тех, что были на прошлых семинарах или в домашних заданиях.
+# Напишите к ним классы исключения с выводом подробной информации.
+# Поднимайте исключения внутри основного кода.
+# Например нельзя создавать прямоугольник со сторонами отрицательной длины.
 class Matrix:
     def __init__(self, matrix):
         self.matrix = matrix
@@ -37,8 +41,8 @@ class Matrix:
         print()
 
     def __mul__(self, other):
-        if self.width != other.height:
-            raise ValueError("Матрицы имеют некорректные размеры для умножения")
+        # if self.width != other.height:
+        #     raise ValueError("Матрицы имеют некорректные размеры для умножения")
 
         matrix = []
         for i in range(self.height):
@@ -61,7 +65,7 @@ data4 = [[1, 2], [3, 4]]
 matrix1 = Matrix(data1)
 matrix1.show_matrix()
 
-matrix2 = Matrix(data4)
+matrix2 = Matrix(data2)
 matrix2.show_matrix()
 
 # matrix3 = matrix1 + matrix2
@@ -73,4 +77,5 @@ matrix2.show_matrix()
 #     print('not equal')
 
 matrix4 = matrix1 * matrix2
+
 matrix4.show_matrix()
