@@ -1,0 +1,30 @@
+Проверяет ялвяется ли передаваемое число простым.
+
+>>> from functions import composite_number
+
+>>> composite_number(1)
+'Число равно 1. А единица не простое и не составное число'
+>>> composite_number(2)
+'Число простое'
+>>> composite_number(3)
+'Число простое'
+>>> composite_number(5)
+'Число простое'
+>>> composite_number(11)
+'Число простое'
+
+>>> composite_number(6)
+'Число составное'
+>>> composite_number(8)
+'Число составное'
+>>> composite_number(10)
+'Число составное'
+>>> composite_number(15)
+'Число составное'
+>>> composite_number(21)
+'Число составное'
+
+>>> composite_number(-1)
+Traceback (most recent call last):
+    ...
+ValueError: Число меньше 0

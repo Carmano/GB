@@ -1,0 +1,14 @@
+Принимает целочисленный список. Возвращает список чисел без повторений, которые дублируются в принимаемом списке.
+
+>>> from functions import dublicate_elements
+
+>>> dublicate_elements([1, 1, 2])
+[1]
+>>> dublicate_elements([])
+[]
+>>> dublicate_elements([1, 1, 2, 2])
+[1, 2]
+>>> dublicate_elements([-1, 1, 2])
+[]
+>>> dublicate_elements([-1, -1, 2])
+[-1]
