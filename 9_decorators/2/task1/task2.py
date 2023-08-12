@@ -9,8 +9,8 @@ def square_root(a, b, c):
     d = b**2 - 4 * a * c
 
     if d > 0:
-        x1 = (-b  + math.sqrt(d)) / (2*a)
-        x2 = (-b  - math.sqrt(d)) / (2*a)
+        x1 = (-b + math.sqrt(d)) / (2*a)
+        x2 = (-b - math.sqrt(d)) / (2*a)
         return x1, x2
     elif d == 0:
         x1 = (-b)/(2*a)
@@ -18,8 +18,6 @@ def square_root(a, b, c):
     else:
         return 'уравнение не имеет корней'
 
-# result = square_root(1, 2, 3)
-# print(result)
 
 def gener_csv(file_csv):
     with open(file_csv, 'w', encoding='utf-8', newline='') as f_csv:
@@ -34,8 +32,6 @@ def gener_csv(file_csv):
             row = [a, b, c]
             writer.writerow(row)
 
-
-# result = gener_csv('result.csv')
 
 def start_square(func):
     def wrapper(file_csv):
@@ -72,6 +68,7 @@ def start_square(func):
 
 def find_roots(a, b, c):
     return square_root(a, b, c)
+
 
 gener_csv('result.csv')
 res = find_roots('result.csv')
