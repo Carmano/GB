@@ -7,13 +7,17 @@ import csv
 
 
 class NameDescriptor:
+
+    def __set_name__(self, owner, name):
+        self.name = '_' + name
+
     def __get__(self, instance, owner):
-        return instance._name
+        return instance.__dict__[self.name]
 
     def __set__(self, instance, value):
         if not value[0].isupper() or not value.isalpha():
             raise ValueError("Invalid name")
-        instance._name = value
+        instance.__dict__[self.name] = value
 
 
 class Student:
@@ -32,5 +36,5 @@ class Student:
 
 
 student1 = Student('Tumen')
-student1.name = 'Prat'
+student1.name = 'prat'
 print(student1.name)
