@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %} {% endblock title%}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/base.css')}}">
+</head>
+<body>
+<header>
+    <nav class="menu">
+        <ul>
+            <li><a href="{{ url_for('home') }}">Главная</a></li>
+            <li><a href="{{ url_for('cloth') }}">Одежда</a></li>
+            <li><a href="{{ url_for('jackets') }}">Куртка</a></li>
+            <li><a href="{{ url_for('shoes') }}">Обувь</a></li>
+<!--            <li><a href="*">Контакты</a></li>-->
+<!--            <li><a href="*">О нас</a></li>-->
+        </ul>
+    </nav>
+</header>
+
+<main>
+    {% block content %}
+    {% endblock content %}
+</main>
+
+<footer>
+    <br>
+    <p>Сделанно Туванчап Туменом Амировичем</p>
+</footer>
+</body>
+</html>
