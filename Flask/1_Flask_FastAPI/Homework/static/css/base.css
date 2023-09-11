@@ -11,10 +11,10 @@ body {
   grid-template-rows: auto 1fr auto;
 }
 
-
 header {
   background: blue;
 }
+
 header a {
     color: white;
 }
