@@ -1,10 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
-</head>
-<body>
-$END$
-</body>
-</html>
+{% extends 'base.html' %}
+
+{% block title %} login {% endblock title %}
+
+{% block content %}
+<form action="{{url_for('login')}}" method="post">
+    <input type="text" name="name" placeholder="Имя">
+    <input type="email" name="email" placeholder="Электронный адресс">
+    <input type="submit" value="Отправить">
+</form>
+{% endblock content %}
+
