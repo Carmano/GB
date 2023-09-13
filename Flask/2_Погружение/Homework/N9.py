@@ -18,14 +18,18 @@ app.debug = True
 
 @app.route('/', methods=['GET', 'POST'])
 def login():
-
     if request.method == 'POST':
         form = request.form
         response = make_response(redirect(url_for('home')))
         response.set_cookie('username', form.get('name'))
         response.set_cookie('email', form.get('email'))
         return response
-    response = make_response(render_template('login.html'))
+    return render_template('login.html')
+
+
+@app.route('/logout')
+def logout():
+    response = make_response(redirect(url_for('login')))
     response.delete_cookie('username')
     response.delete_cookie('email')
     return response
