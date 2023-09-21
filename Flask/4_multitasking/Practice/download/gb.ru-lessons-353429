@@ -1,0 +1,166 @@
+<!DOCTYPE html><html><head><title>Вход | GeekBrains - образовательный портал </title><meta content="width=device-width, initial-scale=1" name="viewport" /><meta charset="utf-8" /><meta name="description" content="" /><meta name="wot-verification" content="6c2e6aa2d0f236811c4b" /><meta name="yandex-verification" content="79fe41f8160bace9" /><meta name="google-site-verification" content="lAoRtxDloe2PQ5D6AzHYmWg20Gw1r-bvCCw1EFW36gM" /><meta name="google-site-verification" content="zpu_CX6-uHzQEsu1LHk-EXX-Tdd8ubvz1fechBWxRhc" /><meta name="facebook-domain-verification" content="2s0fakksur3vrzykkmn8zt58rrdbd6" /><meta property="og:site_name" content="GeekBrains" /><meta property="og:title" content="" /><meta property="og:description" content="" /><meta property="og:type" content="" /><meta property="og:url" content="" /><meta property="og:image" content="" /><meta name="vk:image" content="" /><meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="YtlqBnjgNiam0ptuQ11wolPbMyinzasJS2md4lLBWvfZGXaoGWBeWhfTL0x61G/AZyV7c3JhmdQxycOUjDq2ig==" /><script>
+//<![CDATA[
+window.gon={};gon.settings={"ws_url":"https://ws.geekbrains.ru","tracker_url":"/track","api_path":"/api/v2","env":"production"};gon.location={"data":{"city":{"geoname_id":1500973,"names":{"de":"Kysyl","en":"Kyzyl","es":"Kyzyl","fr":"Kyzyl","ja":"クズル","ru":"Кызыл","zh-CN":"克孜勒"}},"continent":{"code":"EU","geoname_id":6255148,"names":{"de":"Europa","en":"Europe","es":"Europa","fr":"Europe","ja":"ヨーロッパ","pt-BR":"Europa","ru":"Европа","zh-CN":"欧洲"}},"country":{"geoname_id":2017370,"iso_code":"RU","names":{"de":"Russland","en":"Russia","es":"Rusia","fr":"Russie","ja":"ロシア","pt-BR":"Rússia","ru":"Россия","zh-CN":"俄罗斯联邦"}},"location":{"accuracy_radius":1,"latitude":51.7214,"longitude":94.4553,"time_zone":"Asia/Krasnoyarsk"},"postal":{"code":"667003"},"registered_country":{"geoname_id":2017370,"iso_code":"RU","names":{"de":"Russland","en":"Russia","es":"Rusia","fr":"Russie","ja":"ロシア","pt-BR":"Rússia","ru":"Россия","zh-CN":"俄罗斯联邦"}},"subdivisions":[{"geoname_id":1488873,"iso_code":"TY","names":{"de":"Tuwa","en":"Republic of Tyva","fr":"République de Touva","ru":"Тува"}}],"network":"176.208.0.0/20"},"cache_hit":null};
+//]]>
+</script><link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" /><link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png" /><link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" /><link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" /><link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" /><link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" /><link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" /><link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" /><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png" /><link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="/favicon-256x256.png" sizes="256x256" /><link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" /><link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" /><link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192" /><link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" /><link rel="manifest" href="/manifest.json" /><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /><meta name="msapplication-TileColor" content="#da532c" /><meta name="msapplication-TileImage" content="/mstile-144x144.png" /><meta name="theme-color" content="#ffffff" /><link rel="stylesheet" type="text/css" href="https://frontend-scripts.hb.bizmrg.com/components/phoneNumberInput.css" /><link rel="stylesheet" media="all" href="https://gbcdn.mrgcdn.ru/uploads//assets/vendors.23c30771c6fc6ddeefff.css" /><link rel="stylesheet" media="all" href="https://gbcdn.mrgcdn.ru/uploads//assets/app.b90c071e947745bf4aaa.css" /><link rel="stylesheet" type="text/css" href="https://frontend-scripts.hb.bizmrg.com/unique-hf/header.css" /><link rel="stylesheet" type="text/css" href="https://frontend-scripts.hb.bizmrg.com/unique-hf/footer.css" /><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TZ45BH');</script><!--new user registration event for Google tag manager/!--></head><body data-no-turbolink="true" data-theme="white" class=" sessions " ng-app="geekbrains"><ins data-revive-zoneid="13" data-revive-block="1" data-revive-id="992178a91ec40b2540b8264848fd1fb7"></ins><div class="claims hide"><div class="popup-claim__inner"><div class="popup-claim__close"><img width="12" height="12" src="/js/popup/popup-image/close.png" alt="close" /></div><h3>Чтобы завершить регистрацию, подтвердите свою почту!</h3><div class="popup-claim__desc">Для этого откройте email, указанный при регистрации и найдите там письмо подтверждения от GeekBrains.&nbsp;Если не видите его во входящих - проверьте папку «Спам».</div><div class="popup-claim__row"><div class="popup-claim__phone"><img src="/js/popup/popup-image/phone.png" alt="close" /></div></div><div class="popup-claim__next">Хотите продолжить обучение?</div><a class="popup-claim__link" href="/education">Перейти в моё обучение</a></div></div><script src="/js/claim-popup.js"></script><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TZ45BH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!--new user registration event for Google tag manager/!--><div class="gb__main-wrapper without-menu js-search-wrapper"><div id="gb_sticky_banner"></div><div id="header-monolit" class="header-monolit_with-loader"><div id="header-app" data-auth="false"><div class="mn-sceleton-loading"></div></div></div><ul class="gb-header__widgets"><li class="gb-header__widgets_item"><a class="gb-header__widgets_link js-search-button show-search-form"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="currentColor" class="gb-header__icon">
+    <path d="M30 28.59L22.45 21A11 11 0 1021 22.45L28.59 30 30 28.59zM5 14a9 9 0 1118 0 9 9 0 01-18 0z" fill="black"></path>
+</svg>
+</a></li></ul><div class="schedule-app-wrapper"><script type="application/json" id="js-react-on-rails-context">{"inMailer":false,"i18nLocale":"ru","i18nDefaultLocale":"ru","href":"https://gb.ru/login","location":"/login","scheme":"https","host":"gb.ru","port":null,"pathname":"/login","search":null,"httpAcceptLanguage":null,"serverSide":false}</script>
+<script type="application/json" class="js-react-on-rails-component" data-component-name="Schedule" data-dom-id="Schedule-react-component-de38b973-4564-4683-822d-1a51126dbe50">{}</script>
+    <div class="schedule-app" id="Schedule-react-component-de38b973-4564-4683-822d-1a51126dbe50"></div>
+    
+</div><div class="js-main-top-menu"><div class="search-panel"><div class="search-panel__progress-bar search-panel__progress-bar_default"></div><div class="search-panel__progress-bar search-panel__progress-bar_error"></div><div class="search-panel__progress-bar search-panel__progress-bar_success"></div><div class="container"><div class="search-panel__wrapper"><form class="search-panel__form" autocomplete="off"><button class="search-panel__submit" type="submit"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="currentColor">
+    <path d="M30 28.59L22.45 21A11 11 0 1021 22.45L28.59 30 30 28.59zM5 14a9 9 0 1118 0 9 9 0 01-18 0z" fill="black"></path>
+</svg>
+</button><input class="search-panel__search-field" type="search" name="q" placeholder="Поиск по сайту" ng-non-bindable="" /><button class="search-panel__search-reset" type="reset"><svg class="svg-icon icon-popup-close-button " width="32" height="32"><use xlink:href="/svg-defs.svg#icon-popup-close-button"></use></svg></button></form></div></div></div></div><div class="container-fluid"><div class="padder padder-v alert-danger autofade gb-notice gb-notice_danger">Вам необходимо войти в систему или зарегистрироваться.</div></div><div class="container-fluid gb-maintenance-notice js-maintenance-notice hidden-notice"><div class="gb-maintenance-notice__content padder padder-v alert-warning"><div class="gb-maintenance-notice__content-message js-maintenance-notice-message"></div><button class="gb-maintenance-notice__content-close-button js-maintenance-notice-close-button">✕</button></div></div><div class="banners-app"></div><div class="page-content"><div class="container-mini"><div class="social-buttons login"><div class="title-text text-center">Вход через соцсети</div><div class="text-center inline-text social-signin"><a class="signin vkontakte js-social-button-with-confidential" data-social-name="vkontakte" href="/auth/vkontakte" data-testid="vkontakte-button"><svg class="svg-icon icon-vkontakte " width="32" height="32"><use xlink:href="/svg-defs.svg#icon-vkontakte"></use></svg></a><a class="signin google_oauth2 js-social-button-with-confidential" data-social-name="google_oauth2" href="/auth/google_oauth2" data-testid="google_oauth2-button"><svg class="svg-icon icon-google_oauth2 " width="32" height="32"><use xlink:href="/svg-defs.svg#icon-google_oauth2"></use></svg></a><a class="signin github js-social-button-with-confidential" data-social-name="github" href="/auth/github" data-testid="github-button"><svg class="svg-icon icon-github " width="32" height="32"><use xlink:href="/svg-defs.svg#icon-github"></use></svg></a><a class="signin twitter js-social-button-with-confidential" data-social-name="twitter" href="/auth/twitter" data-testid="twitter-button"><svg class="svg-icon icon-twitter " width="32" height="32"><use xlink:href="/svg-defs.svg#icon-twitter"></use></svg></a><a class="signin mailru js-social-button-with-confidential" data-social-name="mailru" href="/auth/mailru" data-testid="mailru-button"><svg class="svg-icon icon-mailru " width="32" height="32"><use xlink:href="/svg-defs.svg#icon-mailru"></use></svg></a><a class="signin unti js-social-button-with-confidential" data-social-name="unti" href="/auth/unti" data-testid="unti-button"><svg class="svg-icon icon-unti " width="32" height="32"><use xlink:href="/svg-defs.svg#icon-unti"></use></svg></a></div><div class="title-text text-center">или Email</div></div><form class="new_user" id="new_user" data-parsley-validate="true" ng-non-bindable="true" action="/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="apckBfCudNAVOhUjnDlv8KblzaIrJ6pOptLn83qF5TfRVzirkS4crKQ7oQGlsHCSkhuF+f6LmJPccrmFpH4JSg==" /><div class="form-group"><label for="user_email">Email</label><input autofocus="autofocus" class="form-control input-lg" placeholder="E-mail" required="required" data-testid="login-email" type="email" value="" name="user[email]" id="user_email" /></div><div class="form-group"><label for="user_Пароль">Пароль</label><input autocomplete="off" class="form-control input-lg" placeholder="Пароль" required="required" data-testid="login-password" type="password" name="user[password]" id="user_password" /></div><input name="user[remember_me]" type="hidden" value="0" /><div class="checkbox checkbox-primary"><input id="user_remember_me" name="user[remember_me]" type="checkbox" value="1" data-testid="login-remember-me" /><label for="user_remember_me">Запомнить меня</label><div class="pull-right sms-login"><a href="sms_login">Войти по смс</a></div></div><div class="form-group"><input class="btn btn-block btn-success" type="submit" value="Войти" data-testid="login-submit" /></div><div class="form-group text-center"><a class="h5" href="password/new">Забыли пароль?</a>&nbsp;&nbsp;&nbsp;<a class="h5" href="confirmation/new">Не получили письмо для активации?</a></div></form></div></div><div id="footer-monolit"><div id="footer-app"></div></div></div><div class="gb-overlay" id="gb-popup-registration" data-event="popup-registration"><div class="gb-overlay__cover"></div><div class="gb-popup gb-popup_fullscreen-mobile"><a class="gb-popup__close"><svg class="svg-icon icon-popup-close-button " width="32" height="32"><use xlink:href="/svg-defs.svg#icon-popup-close-button"></use></svg></a><div class="gb-popup__helper gb-popup__helper_width_auto"><div class="registration-form-v2-wrapper"><form class="registration-form-v2 js-form-with-recaptcha" data-parsley-validate="true" action="/" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="cwj2qYSIRFKaE6CauCpqaJUwPwh+t5AexUL1wP1YyRPIyOoH5QgsLisSFLiBo3UKoc53U6sbosO/4qu2I6Mlbg==" /><input type="hidden" name="url" value="https://gb.ru/login" /><input type="hidden" name="user[form_registration]" id="user_form_registration" value="true" /><div class="visible-xs close-form"><svg class="svg-icon icon-x " width="32" height="32"><use xlink:href="/svg-defs.svg#icon-x"></use></svg></div><h3 class="registration-title">Бесплатная регистрация</h3><div class="social-buttons-v2 social-buttons-content social-buttons-content_all"><div class="inline-text"><a class="signin vkontakte js-social-button-with-confidential" data-social-name="vkontakte" href="/auth/vkontakte"><svg class="svg-icon icon-vkontakte " width="32" height="32"><use xlink:href="/svg-defs.svg#icon-vkontakte"></use></svg></a><a class="signin google_oauth2 js-social-button-with-confidential" data-social-name="google_oauth2" href="/auth/google_oauth2"><svg class="svg-icon icon-google_oauth2 " width="32" height="32"><use xlink:href="/svg-defs.svg#icon-google_oauth2"></use></svg></a><a class="signin github js-social-button-with-confidential" data-social-name="github" href="/auth/github"><svg class="svg-icon icon-github " width="32" height="32"><use xlink:href="/svg-defs.svg#icon-github"></use></svg></a><a class="signin twitter js-social-button-with-confidential" data-social-name="twitter" href="/auth/twitter"><svg class="svg-icon icon-twitter " width="32" height="32"><use xlink:href="/svg-defs.svg#icon-twitter"></use></svg></a><a class="signin mailru js-social-button-with-confidential" data-social-name="mailru" href="/auth/mailru"><svg class="svg-icon icon-mailru " width="32" height="32"><use xlink:href="/svg-defs.svg#icon-mailru"></use></svg></a><a class="signin unti js-social-button-with-confidential" data-social-name="unti" href="/auth/unti"><svg class="svg-icon icon-unti " width="32" height="32"><use xlink:href="/svg-defs.svg#icon-unti"></use></svg></a></div></div><div class="form-group"><input class="form-control first_last_name_field" placeholder="Имя и фамилия" required="true" name="user[first_last_name]" value="" data-parsley-required-message="Пожалуйста, укажите имя и фамилию" data-parsley-gb-first-last-name="" data-parsley-maxlength="128" /></div><div class="form-group"><input class="form-control free-color-field" placeholder="E-mail" value="" required="true" type="email" name="user[email]" data-parsley-required-message="Пожалуйста, введите e-mail" data-parsley-type-message="Пожалуйста, введите корректный e-mail" data-parsley-gb-email-format="" data-parsley-gb-email-format-message="Пожалуйста, введите корректный e-mail" /></div><div class="form-group"><input class="form-control gb-phone-input input-lg js-inputmask-phone-input" type="tel" value="" required="true" name="user[phone]" data-name="user[phone]" data-id="user_phone" /></div><script>document.addEventListener('DOMContentLoaded', () => {
+  const phoneInput = document.querySelector('.gb-phone-input-hidden')
+  const emailSubmitButton = document.querySelector('.js-submit-button-with-confidential.email-btn');
+  const smsSubmitButton = document.querySelector('.js-submit-button-with-confidential.sms-btn');
+
+  function setDisabledSubmitButton(btn, val) {
+    if (val) {
+      btn && btn.removeAttribute('disabled');
+    } else {
+      btn && btn.setAttribute('disabled', 'disabled');
+    }
+  }
+
+  setDisabledSubmitButton(emailSubmitButton, phoneInput.value)
+  setDisabledSubmitButton(smsSubmitButton, phoneInput.value)
+
+  phoneInput.addEventListener('input', (event) => {
+    setDisabledSubmitButton(emailSubmitButton, event.target.value)
+    setDisabledSubmitButton(smsSubmitButton, event.target.value)
+  })
+
+  function smsRegisterPrepareData() {
+    const phone = document.getElementsByClassName('gb-phone-input-hidden')[0].value
+    document.getElementById('user_sms_registration').value = true;
+    document.getElementById('user_reg_phone').value = phone;
+  }
+
+  if(smsSubmitButton) {
+    smsSubmitButton.onclick = smsRegisterPrepareData
+  }
+});</script><div class="form-group"><script src="https://www.recaptcha.net/recaptcha/api.js" async defer ></script>
+        <script>
+          var invisibleRecaptchaSubmit = function () {
+            var closestForm = function (ele) {
+              var curEle = ele.parentNode;
+              while (curEle.nodeName !== 'FORM' && curEle.nodeName !== 'BODY'){
+                curEle = curEle.parentNode;
+              }
+              return curEle.nodeName === 'FORM' ? curEle : null
+            };
+
+            var el = document.querySelector("#recaptcha-div")
+            if (!!el) {
+              var form = closestForm(el);
+              if (form) {
+                form.submit();
+              }
+            }
+          };
+        </script>
+<div data-size="invisible" data-sitekey="6LcMsAceAAAAAMQQNUmr__ykgMOdAIx4PFGMEj5K" data-callback="invisibleRecaptchaSubmit" class="g-recaptcha " id="recaptcha-div"></div>
+</div><div class="form-group"><button id="registration-form-button" class="btn btn-register btn-lg btn-block js-button-with-recaptcha js-submit-button-with-confidential" type="submit" data-ab-finish="">Зарегистрироваться</button></div><div class="gb-confidential-policy-form-links"><div class="gb-confidential-policy-form-links__content js-confidential-content"><label for="confidential_policy_agreement"><input class="js-confidential-checkbox" type="checkbox" id="confidential_policy_agreement" name="confidential_policy_agreement" checked="checked" /><span class="gb-confidential-policy-form-links__text">Я подтверждаю согласие на&nbsp;обработку персональных данных в&nbsp;соответствии с&nbsp;условиями <a class="gb-confidential-policy-form-links__link" href="/confidential" target="_blank">Политики конфиденциальности,</a> ознакомился и согласен с&nbsp;условиями <a class="gb-confidential-policy-form-links__link" href="/dogovor" target="_blank">Пользовательского соглашения,</a> <a class="gb-confidential-policy-form-links__link" href="/geekun" target="_blank">Оферты GeekUniversity</a> и <a class="gb-confidential-policy-form-links__link" href="/oferta" target="_blank">Оферты для профессий</a></span> </label></div></div><div class="gb-email-subscription-form"><div class="gb-email-subscription-form__content js-email-subscription-content"><label for="subscription_agreement"><input class="js-email-subscription-checkbox" type="checkbox" id="subscription_agreement" name="subscription_agreement" checked="checked" /><span class="gb-email-subscription-form__text">Я согласен получать уведомления о&nbsp;новых продуктах и предложениях GeekBrains и его партнеров</span></label></div></div><script>(function(){
+  const confidentialText = document.querySelector('.js-confidential-content')
+  const confidentialCheckbox = document.querySelector('.js-confidential-checkbox');
+  const submitButton = document.querySelector('.js-submit-button-with-confidential');
+
+  function setDisabledSubmitButton (flag) {
+    if (flag) {
+      submitButton && submitButton.removeAttribute('disabled');
+      confidentialText.classList.remove('gb-confidential-policy-form-links__content--error');
+    } else {
+      submitButton && submitButton.setAttribute('disabled', 'disabled');
+      confidentialText.classList.add('gb-confidential-policy-form-links__content--error')
+    }
+  }
+
+  const socialButtons = document.querySelectorAll('.js-social-button-with-confidential');
+  const socialLinks = {};
+
+  socialButtons.length && socialButtons.forEach(link => {
+    socialLinks[link.getAttribute('data-social-name')] = link.getAttribute('href');
+  });
+
+  function setDisabledSocialButtons (flag) {
+    if (flag) {
+      socialButtons.length && socialButtons.forEach(link => {
+        link.removeAttribute('disabled');
+        link.setAttribute('href', socialLinks[link.getAttribute('data-social-name')])
+      });
+    } else {
+      socialButtons.length && socialButtons.forEach(link => {
+        link.setAttribute('disabled', 'true')
+        link.removeAttribute('href')
+      });
+    }
+  }
+
+  confidentialCheckbox.addEventListener('change', (e) => {
+    const { checked } = e.target;
+
+    setDisabledSubmitButton(checked);
+    setDisabledSocialButtons(checked);
+  });
+
+})();</script></form></div></div></div></div><script src="https://gbcdn.mrgcdn.ru/uploads//assets/vendor.1ee1ef737a9fed89271a.js"></script><script src="https://gbcdn.mrgcdn.ru/uploads//assets/app.b90c071e947745bf4aaa.js"></script><script src="https://gbcdn.mrgcdn.ru/uploads/assets/vendor-7eec8860401d6d4a397b91956dc3a52bdf302b0d4f9a97bf396ab74ec223e861.js"></script><script src="https://gbcdn.mrgcdn.ru/uploads/assets/application-c4cb9fdd7a1f0ad52c6984161ee09e18228549bd68ef8eaf4b405c4db44b037a.js"></script><script>(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=VbNDxYh1Iu1pGiMiujkweyF/N70q8NF31GdYe04jSOt/Ix6Ca*bQigrJGurd0xBea/kfRxy/npkqvheae/CHRtXiTgK5EdQL6bDO6KXK9iC73xR3jVjvdeRfHYlOtCmhRnHjfh99MopFQeb0nhZ1wq10nN/iHo1kNZ5GtwJ5uyk-';</script><script src="https://designer.fstrk.io/widget-asset/91cd8aef-5b59-4180-b657-10f60da7db80.js" async="true"></script><script>new Image().src = "//counter.yadro.ru/hit?r" +
+        escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+        ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+        ";" + Math.random();</script><ins data-revive-zoneid="7" data-revive-id="992178a91ec40b2540b8264848fd1fb7"></ins><script src="//gb.ru/rvv/www/ddd/bdf.php" async="true"></script><script src="https://frontend-scripts.hb.bizmrg.com/unique-hf/header.js"></script><script src="https://frontend-scripts.hb.bizmrg.com/unique-hf/footer.js"></script><link rel="stylesheet" href="https://frontend-scripts.hb.bizmrg.com/unique-hf/horizontal-scroller.css" type="text/css" /><script src="https://frontend-scripts.hb.bizmrg.com/unique-hf/horizontal-scroller.js"></script><link rel="stylesheet" href="https://frontend-scripts.hb.bizmrg.com/unique-hf/learning-overlay.css" type="text/css" /><script src="https://frontend-scripts.hb.bizmrg.com/unique-hf/learning-overlay.js"></script><link rel="stylesheet" href="https://frontend-scripts.hb.bizmrg.com/unique-hf/sticky-banner.css" type="text/css" /><script src="https://frontend-scripts.hb.bizmrg.com/unique-hf/sticky-banner.js"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/styles/default.min.css" type="text/css" /><script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/highlight.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/languages/go.min.js"></script><link rel="stylesheet" href="https://frontend-scripts.hb.bizmrg.com/unique-hf/gb-widgets.css" type="text/css" /><script src="https://frontend-scripts.hb.bizmrg.com/unique-hf/gb-widgets.js"></script><link rel="stylesheet" href="https://frontend-scripts.hb.bizmrg.com/unique-hf/gb-nps.css" type="text/css" /><script src="https://frontend-scripts.hb.bizmrg.com/unique-hf/gb-nps.js"></script><script src="/js/simple-mde-custom.js"></script><script>window.onload = function () {
+  function getCookie(name) {
+    const matches = document.cookie.match(
+      new RegExp(
+        `(?:^|; )${name.replace(/([.$?*|{}()[\]\\/+^])/g, '\\$1')}=([^;]*)`,
+      ),
+    );
+
+    return matches ? decodeURIComponent(matches[1]) : undefined;
+  }
+
+  const orderRef = getCookie('cartRef');
+  const orderAccessToken = getCookie('cartAccessToken');
+  const userId = getCookie('user_id');
+
+  const classes = ['.mn-dropdown-item__cart-item', '.mn-menu-nested-list__cart-item']
+
+  const displayCartItem = (classes, items_count) => {
+    classes.forEach((value) => {
+      const cartHtmlElem = document.getElementById('header-monolit').querySelector(value)
+
+      if (cartHtmlElem) {
+        cartHtmlElem.innerHTML = items_count
+        cartHtmlElem.style.display = 'block'
+      }
+    })
+  }
+
+  const getAuthCart = (headers) => {
+    fetch('/api/v2/cart/items_count', {headers})
+      .then(response => response.json())
+      .then(data => {
+        if (data.items_count){
+          displayCartItem(classes, data.items_count)
+        }
+      })
+      .catch(e => global.globalJS.Sentry.captureException(e));
+  };
+
+
+  const getItemsCount = () => {
+    if (orderRef && orderAccessToken) {
+      return getAuthCart({
+        'X-Order-Ref': orderRef,
+        'X-Order-Access-Token': orderAccessToken,
+      });
+    }
+
+    if (userId) getAuthCart();
+  };
+
+  getItemsCount()
+}</script></body><script type="module" src="https://frontend-scripts.hb.bizmrg.com/components/phoneNumberInput.js"></script></html>
