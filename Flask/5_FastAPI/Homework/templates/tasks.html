@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{%block title%} Список задач {% endblock title %}
+
+{% block content %}
+<h1>Список задач</h1>
+    {% for task in tasks %}
+        <p>{{ task }}</p>
+    {% endfor %}
+
+<form action="/tasks" method="post">
+    <p><input type="text" name="id" placeholder="id"></p>
+    <p><input type="text" name="title" placeholder="Загаловок"></p>
+    <p><input type="text" name="description" placeholder="Описание"></p>
+    <p><input type="text" name="status" placeholder="Статус"></p>
+    <p><input type="submit" value="Добавить"></p>
+</form>
+
+{% endblock content %}
