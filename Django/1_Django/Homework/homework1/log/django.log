@@ -1,0 +1,17 @@
+Watching for file changes with StatReloader
+C:\PythonProject\GB\Django\1_Django\Homework\homework1\first_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 307
+"GET /about HTTP/1.1" 301 0
+"GET /about/ HTTP/1.1" 200 239
+"GET / HTTP/1.1" 200 307
+C:\PythonProject\GB\Django\1_Django\Homework\homework1\homework1\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Посещение страницы 'О себе'
+"GET /about/ HTTP/1.1" 200 239
+Посещение главной страницы
+"GET / HTTP/1.1" 200 307
+C:\PythonProject\GB\Django\1_Django\Homework\homework1\first_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Get main page
+"GET / HTTP/1.1" 200 307
