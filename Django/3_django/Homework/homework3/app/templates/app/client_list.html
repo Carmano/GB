@@ -1,0 +1,19 @@
+{% extends 'app/base.html' %}
+{% block title %}Clients{% endblock title %}
+
+{% block content %} 
+<h1>Список клиентов</h1>
+{%if users %}
+    {%for user in users%}
+        <p>{{user.name}}</p>
+        <p>{{user.email}}</p>
+        <p>{{user.number}}</p>
+        <p>{{user.address}}</p>
+        <a href="{% url 'order_client' pk=user.id %}" style="display: inline-block;
+padding: 10px 20px; background-color: #3f888f; color: #333;text-decoration: none; border: none; border-radius: 5px; font-size: 14px;" >Список товаров пользователя {{user.name}}</a>
+        <hr>
+    {% endfor %}
+{% else %}
+    <p>Список пуст</p>
+{% endif %}
+{% endblock content %}

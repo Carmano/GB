@@ -1,0 +1,28 @@
+{% extends 'app/base.html' %}
+{% block title %}Ваши заказы{% endblock title %}
+
+{% block content %}
+
+<form action="{% url 'order_client' pk=pk %}" method="post">
+  {% csrf_token %}
+  <span><input type="radio" name="date" value="day">За последний день</span>
+  <span><input type="radio" name="date" value="month">За последний месяц</span>
+  <span><input type="radio" name="date" value="year">За последний год</span>
+  <span><input type="radio" name="date" value="all">Все</span>
+  <span><input type="submit" value="Отсортировать"></span>
+</form>
+<h1>Ваши заказы</h1>
+{{date}}
+{%if products %}
+  {% for product in products %}
+    <p>{{products}}</p>
+    <p>{{product.name}}</p>
+    <p>{{product.description}}</p>
+    <p>{{product.price}}</p>
+    <hr>
+  {%endfor%}
+{%else%}
+  <p>Список пуст</p>
+{% endif %}
+
+{% endblock content %}

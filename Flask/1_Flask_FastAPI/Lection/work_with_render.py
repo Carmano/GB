@@ -10,7 +10,7 @@ def html_index():
         'title': 'Hello world',
         'h1': 'This header',
     }
-    return render_template('index.html', **context)
+    return render_template('main.html', **context)
 
 
 if __name__ == '__main__':

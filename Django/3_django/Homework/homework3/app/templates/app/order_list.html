@@ -1,0 +1,13 @@
+{% extends 'app/base.html' %}
+{% block title %}about{% endblock title %}
+
+{% block content %} 
+<h1>Список заказов</h1>
+{% if orders %}
+  {%for order in orders%}
+    <p></p>
+  {%endfor%}
+{% else %}
+  <p>Список пуст</p>
+{% endif %}
+{% endblock content %}
