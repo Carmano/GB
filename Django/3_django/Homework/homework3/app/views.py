@@ -4,7 +4,7 @@ from .models import Client, Product, Order
 from datetime import datetime, timedelta
 import random
 from django.utils import timezone
-
+from .forms import ProductForm
 
 ###############
 def main(request):
@@ -88,3 +88,22 @@ def generate_orders(request):
         order.save()
 
     return HttpResponse('ok')
+
+
+def product_form(request):
+    if request.method == 'POST':
+        form = ProductForm(request.POST)
+        if form.is_valid():
+            name = form.cleaned_data['name']
+            description = form.cleaned_data['description']
+            price = form.cleaned_data['price']
+            count = form.cleaned_data['count']
+            date_added = form.cleaned_data['date_added']
+            product = Product()
+            product.objects.create(name=name, description=description, price=price, count=count, date_added=date_added)
+            product.save()
+            return HttpResponse('OK')
+
+    else:
+        pass
+    return render(request, 'app/product_form.html')

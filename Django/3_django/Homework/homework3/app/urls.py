@@ -10,4 +10,5 @@ urlpatterns = [
     path('create_fake/', views.create_fake, name='create_fake'),
     path('order_client/<int:pk>', views.order_client, name='order_client'),
     path('generate_orders/', views.generate_orders, name='generate_orders'),
+    path('product_form/', views.product_form, name='product_form'),
 ]
